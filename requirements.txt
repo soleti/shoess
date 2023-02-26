@@ -1,5 +1,5 @@
 numpy
 scipy
-matplotlib
+matplotlib==3.7.0
 ipywidgets
 voila
