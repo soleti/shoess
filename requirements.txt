@@ -1,7 +1,5 @@
 numpy
 scipy
 matplotlib==3.7.0
-ipywidgets
-voila
 particle
 jupyterlab_latex
